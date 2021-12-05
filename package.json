@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tati-simonenko/test-prettier/issues"
   },
-  "homepage": "https://github.com/tati-simonenko/test-prettier#readme"
+  "homepage": "https://github.com/tati-simonenko/test-prettier#readme",
+  "devDependencies": {
+    "eslint": "^8.4.0"
+  }
 }
